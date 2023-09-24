@@ -1,0 +1,149 @@
+body {
+    background-color: #8994AB;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    border: 3px solid #1D222C;
+    border-radius: 8px ;
+    margin:0px;
+}
+
+
+.navi {
+    display: flex;
+    text-align: left;
+    color: black;
+    padding-left: 40PX;
+    font-weight: bold;
+
+}
+
+a {
+
+    color: #717D96;
+    text-decoration: none;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 25PX;
+    padding-right: 20px;
+    
+
+}
+
+a:hover {
+    background-color:#A0ABC0;
+    padding-bottom: 22px;
+}
+
+.navtop {
+    display: flex;
+    background-color: #1D222C;
+    border-bottom: 2px solid #1D222C;
+    
+}
+
+.topbutton {
+    background-color: #151A21;
+    color: #FFFFFF;
+    margin-top: 10px;
+    margin-left: 160px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 3px;
+}
+.navbar {
+    margin-left: 0px;
+}
+
+header {
+    margin-left: 160px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 22px;
+
+}
+.product {
+ display: flex;
+ border-bottom: 2px solid #1D222C;
+}
+
+.plaatje {
+    margin-left:160px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+
+}
+.price {
+    margin-right: 160px;
+}
+
+.button1 {
+    background-color: #2D3648;
+    color: #FFFFFF;
+    padding: 10px 300px ;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+}
+
+.details {
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #1D222C;
+}
+
+.proscons {
+    background-color: #2D3648;
+    color: #FFFFFF;
+    padding: 10px 140px;
+    margin-left: 160px;
+    margin-right: 60px;
+    margin-bottom: 40px;
+    text-align: left;
+    border-radius: 6px;
+    
+}
+
+.info {
+    margin-right: 130px;
+}
+
+.relatedprod {
+    text-align: center;
+    margin: 10px 160px;
+    
+}
+.related {
+    display:flex;
+    gap: 200px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.related1 {
+    text-align: center;
+}
+.related2 {
+    text-align: center;
+}
+
+.related3 {
+    text-align: center;
+}
+
+
+
+footer {
+    background-color: #2D3648;
+    font-size: 15px;
+    color: #9BA6BB;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 35%;
+    text-align: justify;
+    text-decoration: none;
+}
